@@ -13,6 +13,10 @@
 [![Instagram](./img/instagram-light.svg)](https://instagram.com/olegbnoo#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://instagram.com/olegbnoo#gh-dark-mode-only)
 
+## Certifications
+
+[AWS Certified Cloud Practicioner](https://www.credly.com/badges/5a121872-8f77-434b-b449-d58502b75387)
+
 ## Languages and tools/frameworks
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
