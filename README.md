@@ -1,15 +1,13 @@
 # Hi there 👋
 
-## I'm fullstack developer
+## I'm cybersecurity researcher
 
-- 🔒 Interested in cryptography and security overall (Encryption, ECC, Postquantum, FAPI)
+- 🔒 Interested in cryptography, web and binary exploitation
 
 - 🌐 I'm looking to contribute to Open Source projects
 
 ## Connect with me
 
-[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/zolbooo#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/zolbooo#gh-dark-mode-only)
 [![Instagram](./img/instagram-light.svg)](https://instagram.com/olegbnoo#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://instagram.com/olegbnoo#gh-dark-mode-only)
 
@@ -28,4 +26,3 @@
 <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 
 [instagram]: https://instagram.com/olegbnoo
-[linkedin]: https://linkedin.com/in/zolbooo
