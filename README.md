@@ -12,6 +12,7 @@
 
 ## CVEs
 - CVE-2026-2950
+- CVE-2026-27577
 
 ## Connect with me
 
